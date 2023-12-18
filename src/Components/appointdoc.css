@@ -1,0 +1,7 @@
+.ggg {
+  min-height: calc(150vh-211px);
+}
+.irfan-dropdown:hover {
+  background-color: #a62869;
+  color: aliceblue;
+}

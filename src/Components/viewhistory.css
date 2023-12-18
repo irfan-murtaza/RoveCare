@@ -1,0 +1,41 @@
+.shadowww {
+  box-shadow: 1px 1px 2px white, 0 0 10px #d3d3d3, 0 0 5px #d3d3d3;
+  padding: 3% !important;
+}
+.row3 {
+  margin-left: 15%;
+  margin-top: 150px;
+  width: 70% !important;
+}
+
+.myfont {
+  font: 400 16px/1.7777777778 Open sans, system-ui, -apple-system, sans-serif !important;
+}
+
+.flexprop {
+  display: flex !important;
+}
+
+.boldp {
+  font-weight: bolder !important;
+}
+
+.marginleft {
+  margin-left: 100px !important;
+}
+
+.marginleft1 {
+  margin-left: 67px !important;
+}
+
+.marginleft2 {
+  margin-left: 110px !important;
+}
+
+.txtalign {
+  text-align: center !important;
+}
+
+.txtdesign {
+  font-size: xx-large !important;
+}

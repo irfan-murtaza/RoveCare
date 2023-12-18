@@ -1,0 +1,44 @@
+.row4 {
+  width: 30% !important;
+  margin-left: 35% !important;
+  margin-top: 40px;
+}
+
+.row3 {
+  width: 30% !important;
+  margin-left: 35% !important;
+  margin-top: 50px;
+  padding-bottom: 100px;
+}
+
+.row1 {
+  width: 40% !important;
+  margin-left: 35% !important;
+  margin-top: 100px;
+}
+
+.myfont {
+  font: 400 16px/1.7777777778 Open sans, system-ui, -apple-system, sans-serif !important;
+}
+
+.txtdesign {
+  font-weight: bold;
+  margin-left: 8%;
+}
+
+.mrgl {
+  margin-right: 30px;
+  font-weight: bold;
+  margin-top: 4px;
+  font-size: 20px;
+}
+.my-border {
+  border-color: cadetblue;
+  border-width: 5px;
+  padding: 5px;
+  color: darkslategray;
+  border-radius: 5px;
+}
+.mgn {
+  margin-left: 30%;
+}

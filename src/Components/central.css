@@ -1,0 +1,481 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.shadow-design {
+  color: #202124;
+  margin-top: 40px;
+  text-align: left;
+  font: 400 16px/1.7777777778 Open sans, system-ui, -apple-system, sans-serif;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  padding: 1rem !important;
+  box-shadow: 0 0.125rem 0.3rem -0.0625rem rgba(0, 0, 0, 0.03),
+    0 0.275rem 0.75rem -0.0625rem rgba(0, 0, 0, 0.06) !important;
+}
+.home-div-style {
+  padding-bottom: 40px;
+  background-image: repeating-linear-gradient(to right, white, white);
+}
+.homediv2 {
+  padding-bottom: 20px;
+  margin-left: 7% !important;
+  background-image: repeating-linear-gradient(to right, white, white);
+}
+.imgdesign {
+  border-radius: 5px;
+}
+.fontWeight {
+  font-weight: bold;
+}
+.backgroundcolorclass {
+  background-color: #2874a6;
+}
+.fontsizee {
+  font-size: large !important;
+  font-weight: bold !important;
+}
+
+.fontsizeee {
+  font-size: medium !important;
+  margin-left: 10px;
+  margin-top: 4px;
+}
+.homediv3 {
+  color: #202124;
+  text-align: left;
+  margin-left: 320px;
+  font: 400 16px/1.7777777778 Open sans, system-ui, -apple-system, sans-serif;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  padding: 1rem !important;
+  box-shadow: 0 0.125rem 0.3rem -0.0625rem rgba(0, 0, 0, 0.03),
+    0 0.275rem 0.75rem -0.0625rem rgba(0, 0, 0, 0.06) !important;
+}
+.font-design {
+  font: 400 16px/1.7777777778 Open sans, system-ui, -apple-system, sans-serif;
+  font-weight: 700 !important;
+  font-size: 1.125rem !important;
+  color: #014e78 !important;
+  text-align: center;
+  margin-top: 40px;
+  margin-bottom: 0 !important;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.btnstylee {
+  height: 35px;
+}
+.leftmargin20 {
+  margin-left: 5% !important;
+}
+
+/* .header-style {
+  padding-top: 25px !important;
+  font: 400 16px/1.7777777778 Open sans, system-ui, -apple-system, sans-serif !important;
+  list-style: none;
+  font-weight: 400 !important;
+  box-sizing: border-box;
+  background-image: repeating-linear-gradient(
+    to right,
+    #ffffff,
+    #ffffff
+  ) !important;
+  -webkit-font-smoothing: antialiased;
+  transition: color 0.25s ease-in-out;
+  display: flex !important;
+  padding-bottom: 25px !important;
+} */
+
+.margin-left {
+  margin-left: 40px;
+}
+/* .logo-Style {
+  height: 72px;
+  width: 200px;
+} */
+
+.margin-style {
+  margin-left: 70px !important;
+}
+
+.color-style {
+  color: #014e78 !important;
+}
+
+.login-button {
+  margin-left: 140px;
+  width: 95px;
+  height: 50px;
+}
+.signup-button {
+  margin-left: 20px;
+  margin-right: 30px;
+  width: 120px;
+  height: 50px;
+}
+/* .roveLogo {
+  margin-left: 40px !important;
+  margin-right: 390px !important;
+} */
+
+.footer-style {
+  background-image: repeating-linear-gradient(to right, #2874a6, #2874a6);
+  color: #202124;
+  text-align: left;
+  font: 400 16px/1.7777777778 Open sans, system-ui, -apple-system, sans-serif;
+  box-sizing: border-box;
+}
+.container {
+  width: 100% !important;
+}
+.row {
+  width: 100% !important;
+}
+.col-md-4 {
+  width: 35% !important;
+}
+
+.col-md-2 {
+  width: 18% !important;
+}
+
+.footer-style1 {
+  margin-top: 30px;
+  color: white;
+  text-align: center !important;
+}
+.circle-style {
+  color: #202124;
+  margin-right: 10px;
+}
+.color-white {
+  color: white;
+  display: flex !important;
+}
+.fb-style {
+  color: #202124;
+  margin-left: 10px;
+}
+.color-style {
+  color: #202124;
+}
+.margin-style2 {
+  margin-left: 640px !important;
+}
+.margin-style3 {
+  margin-left: 50px !important;
+}
+.login-style {
+  margin-top: 40px;
+  text-align: center;
+  color: #202124;
+  text-align: left;
+  font: 400 16px/1.7777777778 Open sans, system-ui, -apple-system, sans-serif;
+}
+
+.text-alig {
+  text-align: center !important;
+}
+
+.username-style {
+  margin-bottom: 50px;
+  margin-top: 20px;
+}
+
+.input-style4 {
+  word-wrap: break-word;
+  box-sizing: border-box;
+  margin: 0;
+  font: inherit;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  border-radius: 3px;
+  background-color: #ececec;
+  border: 1px solid transparent;
+  color: #3d3d3d;
+  width: 40%;
+  padding: 10px;
+}
+
+.login-bstyle {
+  background-color: #2874a6;
+  margin-bottom: 50px;
+  margin-top: 25px;
+  width: 200px;
+  height: 50px;
+}
+
+.place {
+  text-align: center !important;
+}
+
+.fontsize {
+  font-size: 24px !important;
+  margin-right: 25px !important;
+}
+.fontsize2 {
+  font-size: 24px !important;
+  margin-right: 42px !important;
+}
+.border {
+  height: 2px;
+  border-width: 0;
+  color: gray;
+  background-color: gray;
+  margin-top: 30px;
+}
+
+.col-md-8 {
+  width: 50% !important;
+  margin-left: 35% !important;
+  margin-top: 80px !important;
+  margin-bottom: 50px !important;
+}
+
+.col-md-888 {
+  width: 50% !important;
+  margin-left: 35% !important;
+  margin-top: 20px !important;
+  margin-bottom: 20px !important;
+}
+
+.col-md-6 {
+  width: 30% !important;
+  margin-left: 35% !important;
+}
+.width70 {
+  width: 60% !important;
+}
+.flexprop {
+  display: flex !important;
+}
+
+.myinput-style {
+  word-wrap: break-word;
+  box-sizing: border-box;
+  margin: 0;
+  font: inherit;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  border-radius: 3px;
+  background-color: #ececec;
+  border: 1px solid transparent;
+  color: #3d3d3d;
+  width: 40%;
+  padding: 10px;
+}
+
+.myinput2 {
+  word-wrap: break-word;
+  box-sizing: border-box;
+  margin: 0;
+  font: inherit;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  border-radius: 3px;
+  background-color: #ececec;
+  border: 1px solid transparent;
+  color: #3d3d3d;
+  width: 80%;
+  padding: 10px;
+}
+
+.signup-style {
+  margin-top: 40px !important;
+  text-align: center !important;
+  color: #202124;
+  text-align: left;
+  font: 400 16px/1.7777777778 Open sans, system-ui, -apple-system, sans-serif;
+}
+
+.margin-shit {
+  margin-bottom: 50px;
+  margin-top: 20px;
+}
+.line-sty {
+  height: 2px;
+  border-width: 0;
+  color: gray;
+  background-color: gray;
+  margin-top: 30px;
+}
+
+.myfont {
+  font-size: 24px;
+}
+.margin-80 {
+  width: 80%;
+}
+
+.margin-80-center {
+  width: 80%;
+  margin-left: 10% !important;
+  margin-top: 5% !important;
+  margin-bottom: 5% !important;
+}
+
+.lastbutton {
+  background-color: #2874a6;
+  margin-bottom: 50px;
+  margin-top: 25px;
+  width: 200px;
+  height: 50px;
+}
+
+.patient {
+  margin-left: 20px;
+}
+
+.col-2 {
+  width: 5% !important;
+}
+
+.col-8 {
+  width: 45% !important;
+  margin-left: 25% !important;
+  margin-top: 25px !important;
+  text-align: left !important;
+}
+
+.flexp {
+  display: flex;
+}
+.col-md-12 {
+  width: 100% !important;
+}
+
+.text-center {
+  text-align: center !important;
+}
+
+.paragraphStyle {
+  font-size: 0.87rem !important;
+  font-weight: bold;
+  color: #333333 !important;
+  margin-top: 5% !important;
+}
+
+.bookappointmentButton {
+  border-radius: 8px;
+  height: 42px;
+  width: 160px;
+}
+.bookappointmentButton2 {
+  border-radius: 8px;
+}
+
+.top-margin-30 {
+  margin-bottom: 10px;
+}
+
+.top-margin-neg {
+  margin-top: -6px;
+}
+
+.top-margin-6 {
+  margin-top: 6px;
+}
+.top-margin-15 {
+  margin-top: -15px;
+}
+
+.doctor-main-style {
+  padding-top: 20px;
+  margin-top: 50px;
+  margin-bottom: 40px;
+  margin-left: 20% !important;
+  box-shadow: 1px 1px 2px white, 0 0 10px #d3d3d3, 0 0 5px #d3d3d3;
+}
+
+.doctor-img-style {
+  height: 100px;
+  width: 100px;
+}
+
+.text-decor {
+  text-decoration: underline;
+}
+
+.shadowww {
+  box-shadow: 1px 1px 2px white, 0 0 10px #d3d3d3, 0 0 5px #d3d3d3;
+  margin-top: 5%;
+  margin-bottom: 50px;
+}
+.shadowww2 {
+  padding: 4%;
+  box-shadow: 1px 1px 2px white, 0 0 10px #d3d3d3, 0 0 5px #d3d3d3;
+  border-radius: 5%;
+}
+
+.priceStyle {
+  font-size: 14px;
+  color: black;
+}
+.img-stylee {
+  width: 15% !important;
+  margin-left: 15% !important;
+  margin-top: 2% !important;
+}
+
+.doctordetails {
+  width: 70% !important;
+}
+.addressdetails {
+  width: 60% !important;
+  margin-left: 15% !important;
+}
+.mtopp {
+  padding-top: 5% !important;
+}
+.padleft {
+  padding-left: 10% !important;
+}
+.pbottom {
+  padding-bottom: 2% !important;
+}
+.mnegv {
+  margin-top: -3% !important;
+}
+.marginleft30 {
+  margin-left: 23% !important;
+  margin-top: 5% !important;
+}
+
+.hrtag {
+  height: 40px;
+  color: #202124;
+}
+
+.myfont {
+  font: 400 16px/1.7777777778 Open sans, system-ui, -apple-system, sans-serif !important;
+}
+
+.labdes {
+  padding-top: 20px;
+  margin-top: 50px;
+  margin-bottom: 40px;
+  box-shadow: 1px 1px 2px white, 0 0 10px #d3d3d3, 0 0 5px #d3d3d3;
+}
+.place {
+  padding-left: 0px;
+}
+
+.bds {
+  margin-bottom: 30px;
+}
+
+.BookabuttonDes {
+  border-radius: 8px;
+  height: 42px;
+  width: 160px;
+}
