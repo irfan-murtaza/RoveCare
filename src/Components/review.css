@@ -1,0 +1,34 @@
+.b-radius {
+  border-radius: 10px;
+}
+
+.my-color {
+  background-color: #ebfaff;
+}
+
+.row {
+  width: 100% !important;
+}
+.mydesign1 {
+  font-weight: bolder !important;
+  font-size: large !important;
+  margin-bottom: 0%;
+}
+
+.myfont {
+  font: 400 16px/1.7777777778 Open sans, system-ui, -apple-system, sans-serif !important;
+}
+.w75 {
+  width: 80% !important;
+  padding-left: 15% !important;
+}
+
+.mydd2 {
+  width: 97.5% !important;
+  background-color: darkgray;
+  margin-top: 4%;
+}
+.inactiveLink {
+  pointer-events: none;
+  cursor: default;
+}

@@ -1,0 +1,11 @@
+.container-cord {
+  margin-left: 11%;
+  width: 70%;
+  height: 10%;
+  /* //box-shadow: 5px 10px; */
+  padding-top: 0%;
+  margin-bottom: 5%;
+  border: 10px solid white;
+
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 30px 90px;
+}
